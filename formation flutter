@@ -134,7 +134,8 @@ Fonctionnalités clés à développer tout au long des modules :
 	•	Ajout, modification, suppression de lieux
 	•	Ajout d’objets avec photo, description, date, localisation
 	•	Visualisation et recherche rapide d’objets
-	•	Design fluide, moderne, responsive
+	•	Design fluide, moderne, responsive 	
+	•	les images doivent etre automatiqument compressées avant d'être ajoutées dans la base sqlite, tout en conservant une bonne definition pour une lecture sur modile.
 	•	Données stockées localement (SQLite), accessibles sans connexion
 	•	Interface mono-utilisateur (pas de login requis, mais données personnelles locales)
 
